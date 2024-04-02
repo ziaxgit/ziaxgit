@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **building a portfolio website with admin controls using Next.js and MongoDB**
 
-- 🌱 I’m currently learning **Next.js, MongoDB, NoSQL and AWS services**
+- 🌱 I’m currently learning **Next.js, MongoDB, AWS services and hosting**
 
 - 💬 Ask me about **HTML, CSS, JavaScript and React.js**
 
