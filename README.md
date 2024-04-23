@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziaxgit&label=Profile%20views&color=0e75b6&style=flat" alt="ziaxgit" /> </p>
 
-- 🔭 I’m currently working on **building a portfolio website with admin controls using Next.js and MongoDB**
+- 🔭 I’m currently working on **building a bespoke iOS app for a restaurant using React Native and TypeScript**
 
 - 🌱 I’m currently learning **Next.js, MongoDB, AWS services and hosting**
 
