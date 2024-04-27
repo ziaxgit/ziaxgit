@@ -32,3 +32,5 @@ Here is a list of projects I have built so far 👇
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziaxgit&show_icons=true&locale=en" alt="ziaxgit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziaxgit&" alt="ziaxgit" /></p>
+
+![Codewars](https://github.r2v.ch/codewars?user=heyiamzia&stroke=orange)
