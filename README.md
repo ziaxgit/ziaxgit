@@ -34,4 +34,3 @@ Here is a list of projects I have built so far 👇
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziaxgit&" alt="ziaxgit" /></p>
 
 ![Codewars](https://github.r2v.ch/codewars?user=ziaxgit&stroke=orange)
-
