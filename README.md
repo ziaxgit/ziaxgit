@@ -1,6 +1,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziaxgit&label=Profile%20views&color=0e75b6&style=flat" alt="ziaxgit" /> </p> 
-<h1 align="center">Hi 👋, I'm Ziaur Rahman</h1> 
+
+<div id="header" align="center">
+<h1>
+Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Ziaur Rahman
+</h1>
+</div>
+
 <h3 align="center">A software developer from London, UK</h3>
 
 - 🔭 I’m currently working on **building a bespoke iOS app for a restaurant using React Native and TypeScript**
