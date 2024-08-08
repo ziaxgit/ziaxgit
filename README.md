@@ -18,13 +18,25 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 - ⚡ Fun fact **I can bench press more than my bodyweight 💪**
 
 Here is a list of projects I have built so far 👇
-- [GrocertKart](https://github.com/ziaxgit/GrocerKart) - An iOS app built and deployed in App Store for a restaurant which makes ordering groceries and supplies simple and easy. App Store link: https://apps.apple.com/app/grocerkart/id6502514835
-- [StayFresh](https://northcoders.com/project-phase/stayfresh) - A mobile application designed to streamline food management by automatically scanning food items from grocery receipts. It simplifies tracking expiration dates, sends timely reminders, and suggests recipe ideas for items nearing expiry, effectively reducing food waste and saving money. With the UK discarding 9.5 million tons of food annually, StayFresh aims to combat this issue effectively.
-- [News Room – Frontend](https://zias-news.netlify.app/) - A fully responsive news website built using HTML, CSS and React.js by utilising my back-end endpoints. This web application features a homepage with a list of articles that can be filtered by topics and sorted by different factors. Contains individual article pages for users to read the content and allows voting functionality. Users can participate in discussion of an article by posting or deleting comments. Hosted the site on Netlify.
-- [News Room - Backend](https://zia-nc-news.onrender.com/api) - A RESTful API built using Node.js and Express.js, with various endpoints, including GET, POST, PATCH, and DELETE requests. Followed the MVC architecture and wrote unit tests using Jest and integration tests using Supertest to ensure code quality and handle potential errors. Hosted the API on Render which serves as the backend of News Room frontend.
-- [The Dream Foundation](https://ziaxgit.github.io/the-dream-foundation/index.html) - A concept website created for a charity based client. The website is mobile responsive and aims to present what the charity is about and how it wishes to help the people in need.
-- [Rock, Paper, Scissors](https://ziaxgit.github.io/rock-paper-scissors/) - I created this game as part of The Odin Project. It helped me solidly the concept of Document Object Model (DOM) and learning how to manipulate HTML and CSS using JavaScript events. Game of 5 rounds with added animations and sound effects. Randomised messages declaring the winner/loser with added video and audio accordingly.
-- [Etch-a-Sketch](https://ziaxgit.github.io/etch-a-sketch/) - This is a browser version of something between a sketchpad and an Etch-A-Sketch. It's part of The Odin Project. The main aim of this project is to put DOM manipulation skills in practice.
+## GrocertKart: [Demo](https://www.linkedin.com/feed/update/urn:li:activity:7204042838785806337/) | [App store](https://apps.apple.com/app/grocerkart/id6502514835) | [Repo](https://github.com/ziaxgit/GrocerKart) 
+An iOS app built and deployed in App Store for a restaurant which makes ordering groceries and supplies simple and easy.
+
+ ## StayFresh: [Demo](https://northcoders.com/project-phase/stayfresh) | [Repo](https://github.com/ziaxgit/Stay-Fresh-FE)
+ A mobile application designed to streamline food management by automatically scanning food items from grocery receipts. It simplifies tracking expiration dates, sends timely reminders, and suggests recipe ideas for items nearing expiry, effectively reducing food waste and saving money. With the UK discarding 9.5 million tons of food annually, StayFresh aims to combat this issue effectively.
+
+ ## News Room – Frontend: [Demo](https://zias-news.netlify.app/) | [Repo](https://github.com/ziaxgit/News-Room-Frontend)
+ A fully responsive news website built using HTML, CSS and React.js by utilising my back-end endpoints. This web application features a homepage with a list of articles that can be filtered by topics and sorted by different factors. Contains individual article pages for users to read the content and allows voting functionality. Users can participate in discussion of an article by posting or deleting comments. Hosted the site on Netlify.
+ 
+## News Room - Backend: [Demo](https://zia-nc-news.onrender.com/api) | [Repo](https://github.com/ziaxgit/News-Room-API)
+A RESTful API built using Node.js and Express.js, with various endpoints, including GET, POST, PATCH, and DELETE requests. Followed the MVC architecture and wrote unit tests using Jest and integration tests using Supertest to ensure code quality and handle potential errors. Hosted the API on Render which serves as the backend of News Room frontend.
+
+## The Dream Foundation: [Demo](https://ziaxgit.github.io/the-dream-foundation/index.html) | [Repo](https://github.com/ziaxgit/the-dream-foundation)
+A concept website created for a charity based client. The website is mobile responsive and aims to present what the charity is about and how it wishes to help the people in need. Built using HTML and CSS.
+
+## Rock, Paper, Scissors: [Demo](https://ziaxgit.github.io/rock-paper-scissors/) | [Repo](https://github.com/ziaxgit/rock-paper-scissors)
+I created this game as part of The Odin Project. It helped me solidly the concept of Document Object Model (DOM) and learning how to manipulate HTML and CSS using JavaScript events. Game of 5 rounds with added animations and sound effects. Randomised messages declaring the winner/loser with added video and audio accordingly.
+## Etch-a-Sketch: [Demo](https://ziaxgit.github.io/etch-a-sketch/) | [Repo](https://github.com/ziaxgit/etch-a-sketch)
+This is a browser version of something between a sketchpad and an Etch-A-Sketch. It's part of The Odin Project. The main aim of this project is to put DOM manipulation skills in practice.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
