@@ -9,7 +9,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 <h3 align="center">A software developer from London, UK</h3>
 
-- 🔭 I’m currently working on **building a bespoke iOS app for a restaurant using React Native and TypeScript**
+- 🔭 I’m currently working on **building a virtual exhibition platform using university and museums API, enabling users to curate personalized exhibitions**
 
 - 🌱 I’m currently learning **Next.js, MongoDB, AWS services and hosting**
 
