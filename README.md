@@ -2,22 +2,28 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziaxgit&label=Profile%20views&color=0e75b6&style=flat" alt="ziaxgit" /> </p> 
 
 <div id="header" align="center">
-<h1>
+<h2>
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Ziaur Rahman
-</h1>
+</h2>
 </div>
 
-<h3 align="center">A software developer from London, UK</h3>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=A+software+developer+from+London%2C+UK;I+love+coding+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;and+building+things+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" /></a>
+</div>
 
-- 🔭 I’m currently working on **building a virtual exhibition platform using university and museums API, enabling users to curate personalized exhibitions**
+ 
+ - 🛠️ I’m currently working on **building a virtual exhibition platform using university and museums API, enabling users to curate personalized exhibitions**
 
-- 🌱 I’m currently learning **Next.js, MongoDB, AWS services and hosting**
+- 📚 I’m currently learning **Next.js, MongoDB, AWS services and hosting**
 
-- 💬 Ask me about **HTML, CSS, JavaScript and React.js**
+- 💬 Ask me about **web development and building apps**
 
 - ⚡ Fun fact **I can bench press more than my bodyweight 💪**
 
-Here is a list of projects I have built so far 👇
+<h3 align="center">
+Quickly navigate to the projects I have built so far 👇
+</h3>
+
 ## GrocertKart: [Demo](https://www.linkedin.com/feed/update/urn:li:activity:7204042838785806337/) | [App store](https://apps.apple.com/app/grocerkart/id6502514835) | [Repo](https://github.com/ziaxgit/GrocerKart) 
 An iOS app built and deployed in App Store for a restaurant which makes ordering groceries and supplies simple and easy.
 
