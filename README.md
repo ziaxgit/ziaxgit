@@ -25,7 +25,7 @@ Quickly navigate to the projects I have built so far 👇
 </h3>
 
 ## GrocertKart: [Demo](https://www.linkedin.com/feed/update/urn:li:activity:7204042838785806337/) | [App store](https://apps.apple.com/app/grocerkart/id6502514835) | [Repo](https://github.com/ziaxgit/GrocerKart) 
-An iOS app built and deployed in App Store for a restaurant which makes ordering groceries and supplies simple and easy.
+A custom iOS app built and deployed in App Store for a restaurant which makes ordering groceries and supplies simple and easy.
 
  ## StayFresh: [Demo](https://northcoders.com/project-phase/stayfresh) | [Repo](https://github.com/ziaxgit/Stay-Fresh-FE)
  A mobile application designed to streamline food management by automatically scanning food items from grocery receipts. It simplifies tracking expiration dates, sends timely reminders, and suggests recipe ideas for items nearing expiry, effectively reducing food waste and saving money. With the UK discarding 9.5 million tons of food annually, StayFresh aims to combat this issue effectively.
