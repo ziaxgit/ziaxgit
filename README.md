@@ -18,7 +18,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 - 💬 Ask me about **web development and building apps**
 
-- ⚡ Fun fact **I can bench press more than my bodyweight 💪**
+- ⚡ Fun fact **I love to lift weights 💪**
 
 <h3 align="center">
 Quickly navigate to the projects I have built so far 👇
