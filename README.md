@@ -25,7 +25,7 @@ Quickly navigate to the projects I have built so far 👇
 </h3>
 
 ## GrocertKart: [Demo](https://www.linkedin.com/feed/update/urn:li:activity:7204042838785806337/) | [App store](https://apps.apple.com/app/grocerkart/id6502514835) | [Repo](https://github.com/ziaxgit/GrocerKart) 
-A custom iOS app built and deployed in App Store for a restaurant which makes ordering groceries and supplies simple and easy.
+A custom iOS app built and deployed in App Store for a restaurant which makes ordering groceries and supplies simple and easy. Resulting in 100% reduction in missing items and 75% increase in efficiency.
 
  ## StayFresh: [Demo](https://northcoders.com/project-phase/stayfresh) | [Repo](https://github.com/ziaxgit/Stay-Fresh-FE)
  Collaborated with 5 developers to build a mobile application designed to streamline food management by automatically scanning food items from grocery receipts. It simplifies tracking expiration dates, sends timely reminders, and suggests recipe ideas for items nearing expiry, effectively reducing food waste and saving money.
@@ -36,13 +36,11 @@ A custom iOS app built and deployed in App Store for a restaurant which makes or
 ## News Room - Backend: [Demo](https://zia-nc-news.onrender.com/api) | [Repo](https://github.com/ziaxgit/News-Room-API)
 A RESTful API built using Node.js and Express.js, with various endpoints, including GET, POST, PATCH, and DELETE requests. Followed the MVC architecture and wrote unit tests using Jest and integration tests using Supertest to ensure code quality and handle potential errors. Hosted the API on Render which serves as the backend of News Room frontend.
 
-## The Dream Foundation: [Demo](https://ziaxgit.github.io/the-dream-foundation/index.html) | [Repo](https://github.com/ziaxgit/the-dream-foundation)
-A concept website created for a charity based client. The website is mobile responsive and aims to present what the charity is about and how it wishes to help the people in need. Built using HTML and CSS.
 
-## Rock, Paper, Scissors: [Demo](https://ziaxgit.github.io/rock-paper-scissors/) | [Repo](https://github.com/ziaxgit/rock-paper-scissors)
-I created this game as part of The Odin Project. It helped me solidly the concept of Document Object Model (DOM) and learning how to manipulate HTML and CSS using JavaScript events. Game of 5 rounds with added animations and sound effects. Randomised messages declaring the winner/loser with added video and audio accordingly.
-## Etch-a-Sketch: [Demo](https://ziaxgit.github.io/etch-a-sketch/) | [Repo](https://github.com/ziaxgit/etch-a-sketch)
-This is a browser version of something between a sketchpad and an Etch-A-Sketch. It's part of The Odin Project. The main aim of this project is to put DOM manipulation skills in practice.
+## Small Side Projects
+- The Dream Foundation: [Demo](https://ziaxgit.github.io/the-dream-foundation/index.html) | [Repo](https://github.com/ziaxgit/the-dream-foundation)
+- Rock, Paper, Scissors: [Demo](https://ziaxgit.github.io/rock-paper-scissors/) | [Repo](https://github.com/ziaxgit/rock-paper-scissors)
+- Etch-a-Sketch: [Demo](https://ziaxgit.github.io/etch-a-sketch/) | [Repo](https://github.com/ziaxgit/etch-a-sketch)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
