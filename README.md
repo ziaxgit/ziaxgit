@@ -28,7 +28,7 @@ Quickly navigate to the projects I have built so far 👇
 A custom iOS app built and deployed in App Store for a restaurant which makes ordering groceries and supplies simple and easy.
 
  ## StayFresh: [Demo](https://northcoders.com/project-phase/stayfresh) | [Repo](https://github.com/ziaxgit/Stay-Fresh-FE)
- A mobile application designed to streamline food management by automatically scanning food items from grocery receipts. It simplifies tracking expiration dates, sends timely reminders, and suggests recipe ideas for items nearing expiry, effectively reducing food waste and saving money. With the UK discarding 9.5 million tons of food annually, StayFresh aims to combat this issue effectively.
+ Collaborated with 5 developers to build a mobile application designed to streamline food management by automatically scanning food items from grocery receipts. It simplifies tracking expiration dates, sends timely reminders, and suggests recipe ideas for items nearing expiry, effectively reducing food waste and saving money.
 
  ## News Room – Frontend: [Demo](https://zias-news.netlify.app/) | [Repo](https://github.com/ziaxgit/News-Room-Frontend)
  A fully responsive news website built using HTML, CSS and React.js by utilising my back-end endpoints. This web application features a homepage with a list of articles that can be filtered by topics and sorted by different factors. Contains individual article pages for users to read the content and allows voting functionality. Users can participate in discussion of an article by posting or deleting comments. Hosted the site on Netlify.
