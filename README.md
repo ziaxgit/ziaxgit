@@ -37,7 +37,7 @@ A custom iOS app built and deployed in App Store for a restaurant which makes or
 A RESTful API built using Node.js and Express.js, with various endpoints, including GET, POST, PATCH, and DELETE requests. Followed the MVC architecture and wrote unit tests using Jest and integration tests using Supertest to ensure code quality and handle potential errors. Hosted the API on Render which serves as the backend of News Room frontend.
 
 
-## Small Side Projects
+## Mini Side Projects
 - The Dream Foundation: [Demo](https://ziaxgit.github.io/the-dream-foundation/index.html) | [Repo](https://github.com/ziaxgit/the-dream-foundation)
 - Rock, Paper, Scissors: [Demo](https://ziaxgit.github.io/rock-paper-scissors/) | [Repo](https://github.com/ziaxgit/rock-paper-scissors)
 - Etch-a-Sketch: [Demo](https://ziaxgit.github.io/etch-a-sketch/) | [Repo](https://github.com/ziaxgit/etch-a-sketch)
