@@ -24,7 +24,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 Quickly navigate to the projects I have built so far 👇
 </h3>
 
-## ArtQuest: [Demo](https://www.linkedin.com/feed/update/urn:li:activity:7204042838785806337) | [Repo](https://github.com/ziaxgit/ArtQuest)
+## ArtQuest: [Demo](https://artquest.vercel.app/) | [Repo](https://github.com/ziaxgit/ArtQuest)
 ArtQuest is a dynamic web application that allows art enthusiasts to explore, collect, and engage with a wide range of artworks and exhibitions from The Art Institute of Chicago and The Cleveland Museum of Art API's.  
 
 ## GrocertKart: [Demo](https://www.linkedin.com/feed/update/urn:li:activity:7204042838785806337/) | [App store](https://apps.apple.com/app/grocerkart/id6502514835) | [Repo](https://github.com/ziaxgit/GrocerKart) 
