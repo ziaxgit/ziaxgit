@@ -12,7 +12,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </div>
 
  
- - 🛠️ I’m currently working on **building a virtual exhibition platform using university and museums API, enabling users to curate personalized exhibitions**
+ - 🛠️ I’m currently working on **rebuilding an ecommerce website from ground up using Shopify and custom code**
 
 - 📚 I’m currently learning **Next.js, MongoDB, AWS services and hosting**
 
