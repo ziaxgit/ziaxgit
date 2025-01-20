@@ -11,7 +11,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=A+software+developer+from+London%2C+UK;I+love+coding+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;and+building+things+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" /></a>
 </div>
 
- - 📚 I’m currently a trainee at **Makers Software Development Bootcamp**
+- 📚 I’m currently a Junior Developer at **Makers Academy**
 
 - 💬 Ask me about **web development and building applications**
 
