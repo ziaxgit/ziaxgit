@@ -19,6 +19,4 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziaxgit&show_icons=true&locale=en" alt="ziaxgit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziaxgit&" alt="ziaxgit" /></p>
-
 ![Codewars](https://github.r2v.ch/codewars?user=ziaxgit&stroke=orange)
